@@ -24,8 +24,7 @@
 
 ## 📸 界面预览
 
-*(在此处您可以稍后截图放入 `assets/screenshot.png` 并引用)*
-
+<img src="assets/screenshot.png" width="100%">
 > 界面包含：文件选择区、列配置区（自动检测/手动勾选）、正则规则配置、日志输出区。
 
 
