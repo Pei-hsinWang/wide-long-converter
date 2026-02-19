@@ -1,0 +1,61 @@
+# ── 虚拟环境全家桶 ──
+venv/
+env/
+.venv/
+.env/
+
+# ── Python 运行时垃圾 ──
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ── Jupyter 临时文件 ──
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ── 数据与结果（按需保留）──
+*.dta
+*.mat
+results/
+figs/
+*.png
+*.jpg
+*.pdf
+
+
+# ── macOS / Windows / Linux 系统隐藏文件 ──
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# ── IDE 配置文件 ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── 个人笔记 & 日志 ──
+*.log
+todo.md
